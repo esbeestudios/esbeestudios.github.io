@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-
+    gradient(rgba(252, 214, 214),rgba(252, 245, 214)),url(images/banner.png);
+}
